@@ -1,0 +1,17 @@
+# Git Configuration for Mail Service API
+# Edit this file to update your repository settings
+
+Repository URL: https://github.com/abhishekdsangani/mail-service-api.git
+Branch: main
+Default Commit Message: Auto-commit: Updates
+
+# Instructions:
+# 1. Replace 'your-username' with your actual GitHub username
+# 2. Create the repository on GitHub first
+# 3. Update the git-sync.bat file with your repository URL
+# 4. Run git-sync.bat to synchronize your code
+
+# Usage Examples:
+# - Run "git-sync.bat" for full synchronization
+# - Run "quick-commit.bat" for quick commits with default message
+# - Run "quick-commit.bat 'Your custom message'" for custom commit message
